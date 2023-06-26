@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Professional E-commerce Website</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Professional E-commerce Website</h1>
+  </header>
+
+  <nav>
+    <!-- Navigation links go here -->
+  </nav>
+
+  <main>
+    <section class="product-list">
+      <!-- Display products dynamically using JavaScript -->
+    </section>
+    <aside class="cart">
+      <h2>Shopping Cart</h2>
+      <!-- Display items in the shopping cart dynamically using JavaScript -->
+      <button class="checkout">Checkout</button>
+    </aside>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Your E-commerce Store. All rights reserved.</p>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>
